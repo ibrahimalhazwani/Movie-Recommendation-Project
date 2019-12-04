@@ -1,4 +1,4 @@
-# Movie-Recommendation-Project
+# Movie-Recommendation
 
 This is the code I wrote for the project course of Programming for Data Analytics.  
 The project consisted in a Kaggle competion where I had to predict and recommend a list of top 10 movies for a set of users in the test set (test users).  
