@@ -7,4 +7,4 @@ I had to chose which recommender algorithm to use, and after reading paper about
 
 MAP@10 (i.e., Mean Average Precision) was used for evaluation.  
 
-At the end I got the ... position with a score of 0.07024.
+At the end I got the 3rd position with a score of 0.07024.
